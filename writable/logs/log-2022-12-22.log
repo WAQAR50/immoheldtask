@@ -1,0 +1,1284 @@
+CRITICAL - 2022-12-22 03:28:25 --> Undefined array key "p_price"
+in APPPATH\Views\listing.php on line 170.
+ 1 APPPATH\Views\listing.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Views\\listing.php', 170)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\listing.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('listing', [], true)
+ 5 APPPATH\Controllers\Listing.php(52): view('listing', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:06:02 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:38 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:38 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:08:38 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:09:26 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:36 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:10:37 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:00 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:00 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:00 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:00 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:00 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:01 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:23:04 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:07 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:08 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:17 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:24:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:25:22 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:25:22 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:25:22 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:25:22 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:25:22 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:18 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:27:19 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:24 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:24 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:24 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:24 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:24 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:25 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:25 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:25 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:25 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:28:25 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:45:21 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-22 04:45:21 --> Undefined array key "p_price"
+in APPPATH\Controllers\Listing.php on line 59.
+ 1 APPPATH\Controllers\Listing.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "p_price"', 'APPPATH\\Controllers\\Listing.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')

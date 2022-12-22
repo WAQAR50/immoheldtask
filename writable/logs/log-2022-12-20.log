@@ -1,0 +1,1151 @@
+CRITICAL - 2022-12-20 15:59:43 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:10:56 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:03 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:04 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:04 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:06 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:06 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:07 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:07 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:08 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:09 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:11:16 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:31 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:32 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:46 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:47 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:48 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:17:48 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:20:39 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:21:33 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:25:54 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 16:25:59 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-12-20 15:11:07 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 9.
+ 1 APPPATH\Controllers\Listing.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:11:48 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 9.
+ 1 APPPATH\Controllers\Listing.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:11:49 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 9.
+ 1 APPPATH\Controllers\Listing.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:21:59 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:22:01 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:24:45 --> Undefined property: App\Controllers\Listing::$load
+in APPPATH\Controllers\Listing.php on line 9.
+ 1 APPPATH\Controllers\Listing.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$load', 'APPPATH\\Controllers\\Listing.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:26:52 --> Undefined property: App\Controllers\Listing::$load
+in APPPATH\Controllers\Listing.php on line 8.
+ 1 APPPATH\Controllers\Listing.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$load', 'APPPATH\\Controllers\\Listing.php', 8)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Listing->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:26:53 --> Undefined property: App\Controllers\Listing::$load
+in APPPATH\Controllers\Listing.php on line 8.
+ 1 APPPATH\Controllers\Listing.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$load', 'APPPATH\\Controllers\\Listing.php', 8)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Listing->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:27:36 --> Cannot call constructor
+in APPPATH\Controllers\Listing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Listing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:28:15 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 13.
+ 1 APPPATH\Controllers\Listing.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:29:45 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:29:46 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:41 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:42 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:43 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:43 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:44 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:45 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:45 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:31:45 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:32:08 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:32:09 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:45:42 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:45:44 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 10.
+ 1 APPPATH\Controllers\Listing.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:45:58 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:45:59 --> Undefined property: App\Controllers\Listing::$db
+in APPPATH\Controllers\Listing.php on line 11.
+ 1 APPPATH\Controllers\Listing.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Listing::$db', 'APPPATH\\Controllers\\Listing.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 15:48:03 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 15:48:03 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-20 15:48:47 --> Class "CodeIgniter\Database\postgres\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 136.
+ 1 SYSTEMPATH\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('postgres', 'CodeIgniter\\Database\\postgres\\Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(82): CodeIgniter\Database\Database->load([...], 'default')
+ 3 APPPATH\Controllers\Listing.php(10): CodeIgniter\Database\Config::connect()
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 15:49:21 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 15:49:21 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:32:24 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:32:24 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:32:25 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:32:25 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:32:26 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:32:26 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:32:27 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:32:27 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:32:27 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:32:27 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:12 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:12 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:13 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:13 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:14 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:14 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:14 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:14 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:14 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:14 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:15 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:15 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:15 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:15 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:54 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:54 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:55 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:55 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:55 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:55 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:56 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:56 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 17:37:56 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 17:37:56 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:11 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:11 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:12 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:12 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:13 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:13 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:14 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:14 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:15 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:15 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:16 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:16 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 18:01:17 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 18:01:17 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:25:18 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:25:18 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:27:48 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:27:48 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:27:49 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:27:49 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:27:50 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:27:50 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:27:50 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:27:50 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:46 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:46 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:47 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:47 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:48 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:48 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:48 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:48 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:49 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:49 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:52 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:52 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:54 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:54 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+ERROR - 2022-12-20 19:28:56 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in C:\xampp\htdocs\immoheld\system\Database\Postgre\Connection.php:69
+Stack trace:
+#0 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(382): CodeIgniter\Database\Postgre\Connection->connect(false)
+#1 C:\xampp\htdocs\immoheld\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\immoheld\app\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION(...')
+#3 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(927): App\Controllers\Listing->index()
+#4 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+#5 C:\xampp\htdocs\immoheld\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\immoheld\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\immoheld\system\Commands\Server\rewrite.php(46): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-12-20 19:28:56 --> Unable to connect to the database.
+Main connection [postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Listing.php(11): CodeIgniter\Database\BaseConnection->query('SELECT VERSION() ')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Listing->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Listing))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
